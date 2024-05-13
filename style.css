@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    margin-top: 100px;
+}
+span{
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+button{
+    font-size: 1.2rem;
+    padding: 10px;
+    background-color: rgb(62, 178, 178);
+    color: whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+button:hover{
+    background-color:rgb(47, 149, 149) ;
+}
